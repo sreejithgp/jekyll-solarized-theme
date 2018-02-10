@@ -2,7 +2,7 @@
 layout: content
 ---
 
-# Sreejith G Pillai
+# Sreejith Pillai
 
 [https://gjuniioor.github.io/clyell](https://gjuniioor.github.io/clyell)
 
