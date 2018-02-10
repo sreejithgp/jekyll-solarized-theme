@@ -68,6 +68,9 @@ a {
     border-left: 1px dashed rgba(220,220,0,0.5);
     border-right: 1px dashed rgba(220,220,0,0.5);
 }
+.task-list {
+  list-style-type: none;
+}
 main {
     text-align: left;
 }
